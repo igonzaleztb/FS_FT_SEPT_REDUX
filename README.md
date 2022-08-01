@@ -1,1 +1,2 @@
-# FS_FT_SEPT_REDUX
+# REACT-REDUX
+Proyecto de ejemplo de React con Redux
